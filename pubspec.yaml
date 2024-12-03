@@ -1,0 +1,12 @@
+name: resep_masakan
+description: A new Flutter project
+
+# Add SDK constraint
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.0.0+4
+  path: ^1.8.0
